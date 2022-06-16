@@ -1,6 +1,6 @@
-# Ingredient Tracker Application
+# Weather Application
 
-Ingredient tracker for a pizza restaurant that keeps track of stock amounts. Also logs the date and time of each purchase.
+Weather application that displays information on the current weather in cities searched by the user. Utilises the [Weather API](https://openweathermap.org/api) provided by OpenWeather.
 
 ## URL
 
@@ -8,4 +8,4 @@ Navigate to [this url](https://fob-weather-app.herokuapp.com/).
 
 ## Demo
 
-https://user-images.githubusercontent.com/97608368/173869999-a7948cab-b475-4071-b799-ba684652d91b.mp4
+![screencast-newtab-2022 06 15-17_37_45](https://user-images.githubusercontent.com/97608368/174071414-1631ec7a-a59d-4de5-8985-2d642d4aa471.gif)
