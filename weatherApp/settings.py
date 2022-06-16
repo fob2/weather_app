@@ -33,12 +33,12 @@ ALLOWED_HOSTS = ['fob-weather-app.herokuapp.com']
 
 INSTALLED_APPS = [
     'weather',
+    'django.contrib.staticfiles',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
-    'django.contrib.messages',
-    'django.contrib.staticfiles',
+    'django.contrib.messages',   
 ]
 
 MIDDLEWARE = [
